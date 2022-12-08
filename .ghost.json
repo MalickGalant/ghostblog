@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://maliekmaxine.ghost.io",
+    "contentApiKey": "725c4ee7156a5da15c17994d40"
   },
   "production": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://maliekmaxine.ghost.io",
+    "contentApiKey": "725c4ee7156a5da15c17994d40"
   }
 }
